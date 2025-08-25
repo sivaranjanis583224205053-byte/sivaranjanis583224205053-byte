@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi 👋, I am sivaranjani
+#### Welcome to my profile! I am passionate about🚀 *Web Development, Python*.
+#### I am currently pursing 2nd year B Tech IT@ NPRCET🎓
+---------------------------------
+## About me🌈
+#### 🎯 Student of learning Information Technology🥇
+#### 🎯currently learning* Full stack development*🚀
+####    🎯 Interested to solve coding  problems 🍃
+-------------------------------------------------------
+## ⚒️ Skills
+#### . Language: *python,c*🖥️
+#### .Web: *HTML,CSS*📄
+#### .Tools: *Git,GitHub,vs code*📇
+-----------------------------------------------------------------
 
-<!--
-**sivaranjanis583224205053-byte/sivaranjanis583224205053-byte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Web designer
+![](https://www.foduu.com/images/photos/shares/17-BASIC-ELEMENTS-FOR-WEB-DESIGNS.png)
+--------------------------------------------------------------------------------------------
+## Tech stack‍💻
+![](https://img.icons8.com/?size=50&id=23028&format=png) ![](https://img.icons8.com/?size=48&id=21278&format=png) ![](https://img.icons8.com/?size=100&id=iFPHC1KfnoxC&format=png&color=000000)![](https://img.icons8.com/?size=100&id=117557&format=png&color=000000) 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---------------------------------------------------------------------------------------
+![](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHhpMmtuN3FyM3JqaG40eTl3N2JkcTNpM3UzNDUxYjdva204MGxobCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l3vR85PnGsBwu1PFK/200.webp
+)
